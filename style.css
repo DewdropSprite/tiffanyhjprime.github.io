@@ -1,32 +1,27 @@
 body {
-  background-color: #444444;
-  color: #dddddd;
-  font-family: Arial, Helvetica, Sans-serif;
-  margin: 10% 20%;
+  color: black;
+  font-family: Calibri, Arial, helvetica, sans-serif;
+ 
 }
 
-.exp-header {
+h2 {
   text-align: center;
   text-transform: Uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba (0,0,0,0.1)
+  border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+  }
+
+h1, pre {
+  text-align: center;
 }
 
-pre {
-  text-align: center;   
-}
-
-p {
-  padding: 0;
+h2,h3,h4 {
   margin: 0;
-  line-height: 20px
 }
-
-h1, h5, h6, h7 {
-     margin:0;
-}
-
-ul{
-  margin:0;
-}
+  
+ .star-rating {
+  width: 1000px auto; 
+  height: 2000px auto;
+  background-image: url("https://th.bing.com/th/id/OIP.QUFe_mCKUzW0SXhJb-LvRAHaDT?pid=ImgDet&rs=1");
+  background-size: 300px auto;
+  }
