@@ -24,4 +24,12 @@ h2,h3,h4 {
   height: 2000px auto;
   background-image: url("https://th.bing.com/th/id/OIP.QUFe_mCKUzW0SXhJb-LvRAHaDT?pid=ImgDet&rs=1");
   background-size: 300px auto;
-  }
+}
+ 
+img {
+    height: 200px;
+    width: 200px;
+    float: right;
+  
+  
+}
